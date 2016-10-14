@@ -27,8 +27,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - De Munter Michael
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: michael.demunter@student.kdg.be
+	- github: https://github.com/michaeldemunter/software-engineering.git
 
 - De Ridder Pieter-Jan
 	- e-mailadres: naam@student.kdg.be
